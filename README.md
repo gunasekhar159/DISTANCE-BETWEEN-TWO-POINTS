@@ -8,7 +8,7 @@ Program Starts
 ### Step 2: 
 Distance Between two points
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.JPG)
 ### Step 4: 
 Program Completed 
 ### PROGRAM:
